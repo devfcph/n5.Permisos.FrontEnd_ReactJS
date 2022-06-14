@@ -1,0 +1,13 @@
+/* bigshot one font */
+
+@import url('https://fonts.googleapis.com/css2?family=Archivo+Narrow:ital,wght@1,500&family=Familjen+Grotesk&display=swap');
+
+h2 {
+    font-family: 'Familjen Grotesk', sans-serif;
+    font-weight: 400;
+    font-size: 100px;
+    letter-spacing: 0.3px;
+    margin-top: 35px;
+    margin-left: 15px;
+    color: #ece9e9;
+}
